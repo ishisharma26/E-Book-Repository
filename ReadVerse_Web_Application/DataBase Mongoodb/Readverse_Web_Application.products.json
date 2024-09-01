@@ -1,0 +1,68 @@
+[{
+  "_id": {
+    "$oid": "661aa8bfca448c41a354543f"
+  },
+  "title": "Herry Potar",
+  "price": "3000",
+  "pdf": "pdf_1713023167049.pdf",
+  "pic": "pic_1713023167040.jpg",
+  "genreId": {
+    "$oid": "661a91f19db5868a7ef6c6f9"
+  },
+  "status": "Pending",
+  "__v": 0,
+  "authorId": "66190a2ce3f272c9a825e221"
+},
+{
+  "_id": {
+    "$oid": "661b4228eeab403510d2b8ee"
+  },
+  "title": "philoshopy",
+  "price": "3000",
+  "pdf": "pdf_1713062440858.pdf",
+  "pic": "pic_1713062440853.jpg",
+  "authorId": {
+    "$oid": "66190a2ce3f272c9a825e221"
+  },
+  "genreId": {
+    "$oid": "661a91f19db5868a7ef6c6f9"
+  },
+  "status": "Pending",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661b43cc93b06c94cca76fa1"
+  },
+  "title": "Romatict 1",
+  "price": "200",
+  "pdf": "pdf_1713188593757.pdf",
+  "pic": "pic_1713062860218.jpg",
+  "dis": "This is the best book",
+  "authorId": {
+    "$oid": "66190a2ce3f272c9a825e221"
+  },
+  "genreId": {
+    "$oid": "661a91919db5868a7ef6c6f6"
+  },
+  "status": "Pending",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661fe9917002f6e3feabb3ae"
+  },
+  "title": "10Tha Class",
+  "price": "400",
+  "pdf": "pdf_1713367440435.pdf",
+  "pic": "pic_1713367440432.jpg",
+  "dis": "this the best Book of Histroy",
+  "authorId": {
+    "$oid": "66190a2ce3f272c9a825e221"
+  },
+  "genreId": {
+    "$oid": "661e2132f3501ce39971781b"
+  },
+  "status": "Pending",
+  "__v": 0
+}]

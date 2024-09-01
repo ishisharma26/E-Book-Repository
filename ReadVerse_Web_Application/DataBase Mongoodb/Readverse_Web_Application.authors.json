@@ -1,0 +1,13 @@
+[{
+  "_id": {
+    "$oid": "66190a2ce3f272c9a825e221"
+  },
+  "fname": "Prahsnt Gandu",
+  "lname": "Dhote",
+  "email": "ab@.com",
+  "password": "1234",
+  "pic": "pic_1712931891967.jpg",
+  "contact": "1423423",
+  "status": "Accept",
+  "__v": 0
+}]

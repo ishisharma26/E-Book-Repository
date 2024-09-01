@@ -1,0 +1,26 @@
+[{
+  "_id": {
+    "$oid": "661970688323ecef37d78139"
+  },
+  "fname": "Ritik Sisodiya",
+  "lname": "Singh",
+  "email": "ritik@.com",
+  "password": "1234",
+  "pic": "pic_1712943208680.jpg",
+  "contact": "12345678",
+  "status": "Pending",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661fe9e37002f6e3feabb3ba"
+  },
+  "fname": "Priyanshu",
+  "lname": "Sisodiya",
+  "email": "abc@.com",
+  "password": "1234",
+  "pic": "pic_1713367523347.jpg",
+  "contact": "123456243",
+  "status": "Pending",
+  "__v": 0
+}]
